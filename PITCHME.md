@@ -7,14 +7,16 @@
 
 ---
 
-**Azure使ってる人？**
+Azure使ってる人？
 
 ---
 
-<strong>What is it?</strong>
+What is it?
 
 --- 
 
+What is it?
+↓
 Azureを知ってもらうのがゴール
 
 ---
