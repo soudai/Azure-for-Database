@@ -7,13 +7,43 @@
 
 ---
 
-# What is it?
+## Azure使ってる人？
+
+---
+
+## What is it?
+
+--- 
+
+## Azureを知ってもらうのがゴール
+
+---
+
+# あじぇんだ
+- 自己紹介
+- Azureのデータベースの種類
+- Azureの特徴
+- デモ
+- いつAzureを選ぶか？
+
+---
+
+---
+
+# あじぇんだ
+- *自己紹介*
+- Azureのデータベースの種類
+- Azureの特徴
+- デモ
+- いつAzureを選ぶか？
 
 ---
 
 # 自己紹介
-- 曽根 壮大
+- 曽根 壮大(そね たけとも)
 - 32歳
-- 株式会社 はてな
+- 株式会社 はてな Mackerelチーム | 
+- Customer Reliability Engineer | 
+- 日本PostgreSQLユーザ会(JPUG) | 
 
 ---
