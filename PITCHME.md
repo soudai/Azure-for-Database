@@ -50,7 +50,7 @@ Azureを知ってもらうのがゴール
 - Customer Reliability Engineer | 
 - 日本PostgreSQLユーザ会 ( JPUG ) | 
 
----?image=Mackerel.png&size=auto
+---?image=Mackerel.png&size=auto 70%
 
 ---
 
