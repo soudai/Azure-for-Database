@@ -15,11 +15,7 @@ What is it?
 
 --- 
 
-What is it?
-
-↓
-
-Azureを知ってもらうのがゴール
+### Azureを知ってもらうのがゴール
 
 ---
 
@@ -70,6 +66,7 @@ http://hatenacorp.jp/recruit/career/cre
 
 ---
 
+未定
 
 ---
 
@@ -83,6 +80,8 @@ http://hatenacorp.jp/recruit/career/cre
 
 ---
 
+だいたいなんとかなる
+
 ---
 
 ## あじぇんだ
@@ -94,6 +93,8 @@ http://hatenacorp.jp/recruit/career/cre
 - まとめ
 
 ---
+
+デモを制する者はプレゼンを制す
 
 ---
 
@@ -107,6 +108,8 @@ http://hatenacorp.jp/recruit/career/cre
 
 ---
 
+今でしょ！
+
 ---
 
 ## あじぇんだ
@@ -118,3 +121,6 @@ http://hatenacorp.jp/recruit/career/cre
 - **まとめ**
 
 ---
+
+ご清聴ありがとうございました
+
