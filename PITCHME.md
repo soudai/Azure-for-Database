@@ -42,11 +42,27 @@ Azureを知ってもらうのがゴール
 ---
 
 ## 自己紹介
-- 曽根 壮大(そね たけとも)![Logo](./ipodchunli.gif)
+- 曽根 壮大(そね たけとも)
 - 32歳
 - 株式会社 はてな Mackerelチーム | 
 - Customer Reliability Engineer | 
 - 日本PostgreSQLユーザ会(JPUG) | 
 
+---?image=Mackerel.png
+
+
+
 ---
 
+
+
+---
+
+## あじぇんだ
+- **自己紹介**
+- Azureのデータベースの種類
+- Azureの特徴
+- デモ
+- いつAzureを選ぶか？
+
+---
