@@ -29,6 +29,7 @@ Azureを知ってもらうのがゴール
 - Azureの特徴
 - デモ
 - いつAzureを選ぶか？
+- まとめ
 
 ---
 
@@ -38,17 +39,18 @@ Azureを知ってもらうのがゴール
 - Azureの特徴
 - デモ
 - いつAzureを選ぶか？
+- まとめ
 
 ---
 
 ## 自己紹介
-- 曽根 壮大(そね たけとも)
-- 32歳
+- 曽根 壮大(そね たけとも) | 
+- 32歳 | 
 - 株式会社 はてな Mackerelチーム | 
 - Customer Reliability Engineer | 
 - 日本PostgreSQLユーザ会 ( JPUG ) | 
 
----?image=Mackerel.png&size=auto 90%
+---?image=Mackerel.png&size=auto
 
 ---
 
@@ -64,5 +66,55 @@ http://hatenacorp.jp/recruit/career/cre
 - Azureの特徴
 - デモ
 - いつAzureを選ぶか？
+- まとめ
+
+---
+
+
+---
+
+## あじぇんだ
+- 自己紹介
+- Azureのデータベースの種類
+- **Azureの特徴**
+- デモ
+- いつAzureを選ぶか？
+- まとめ
+
+---
+
+---
+
+## あじぇんだ
+- 自己紹介
+- Azureのデータベースの種類
+- Azureの特徴
+- **デモ**
+- いつAzureを選ぶか？
+- まとめ
+
+---
+
+---
+
+## あじぇんだ
+- 自己紹介
+- Azureのデータベースの種類
+- Azureの特徴
+- デモ
+- **いつAzureを選ぶか？**
+- まとめ
+
+---
+
+---
+
+## あじぇんだ
+- 自己紹介
+- Azureのデータベースの種類
+- Azureの特徴
+- デモ
+- いつAzureを選ぶか？
+- **まとめ**
 
 ---
