@@ -21,8 +21,8 @@ What is it?
 
 ## あじぇんだ
 - 自己紹介
-- Azureのデータベースの種類
 - Azureの特徴
+- Azureのデータベースの種類
 - デモ
 - いつAzureを選ぶか？
 - まとめ
@@ -31,8 +31,8 @@ What is it?
 
 ## あじぇんだ
 - **自己紹介**
-- Azureのデータベースの種類
 - Azureの特徴
+- Azureのデータベースの種類
 - デモ
 - いつAzureを選ぶか？
 - まとめ
@@ -58,6 +58,52 @@ http://hatenacorp.jp/recruit/career/cre
 
 ## あじぇんだ
 - 自己紹介
+- **Azureの特徴**
+- Azureのデータベースの種類
+- デモ
+- いつAzureを選ぶか？
+- まとめ
+
+---
+
+Azureの特徴
+
+---
+
+オールインワン
+
+---
+
+### Microsoftの強さ
+
+- Windowsとの連携 |
+  - ADとの連携だったり |
+  - Office365だったり |
+- Visual Studio |
+  - C# の強さ |
+  - Type Script |
+  - LINQ |
+  - .net |
+- ネイティブとWeb |
+  - どちらもサポート |
+
+---
+
+IaaSより **PaaS**
+
+---
+
+豊富なPaaSを如何に組み合わせるか
+
+---
+
+全部揃えたところの強さがMicrosoft
+
+---
+
+
+## あじぇんだ
+- 自己紹介
 - **Azureのデータベースの種類**
 - Azureの特徴
 - デモ
@@ -66,28 +112,39 @@ http://hatenacorp.jp/recruit/career/cre
 
 ---
 
-未定
+Azureのデータベース
 
 ---
+
+### RDB
+- SQL Database
+- PostgreSQL
+- MySQL
+
+---
+
+### NoSQL
+- CosmosDB
+- Redis Cache
+- Table Storage
+
+---
+
+### 他にも
+- Azure SQL Data Warehousがあったり
+- Power BIと連携したり
+
+---
+
+一通りのやりたいことは揃っている
+
+---
+
 
 ## あじぇんだ
 - 自己紹介
-- Azureのデータベースの種類
-- **Azureの特徴**
-- デモ
-- いつAzureを選ぶか？
-- まとめ
-
----
-
-だいたいなんとかなる
-
----
-
-## あじぇんだ
-- 自己紹介
-- Azureのデータベースの種類
 - Azureの特徴
+- Azureのデータベースの種類
 - **デモ**
 - いつAzureを選ぶか？
 - まとめ
@@ -100,8 +157,8 @@ http://hatenacorp.jp/recruit/career/cre
 
 ## あじぇんだ
 - 自己紹介
-- Azureのデータベースの種類
 - Azureの特徴
+- Azureのデータベースの種類
 - デモ
 - **いつAzureを選ぶか？**
 - まとめ
@@ -114,8 +171,8 @@ http://hatenacorp.jp/recruit/career/cre
 
 ## あじぇんだ
 - 自己紹介
-- Azureのデータベースの種類
 - Azureの特徴
+- Azureのデータベースの種類
 - デモ
 - いつAzureを選ぶか？
 - **まとめ**
