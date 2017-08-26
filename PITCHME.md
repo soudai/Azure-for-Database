@@ -44,7 +44,7 @@ Azureを知ってもらうのがゴール
 ---
 
 # 自己紹介
-- 曽根 壮大(そね たけとも)
+- 曽根 壮大(そね たけとも)![Logo](ipodchunli.gif)
 - 32歳
 - 株式会社 はてな Mackerelチーム | 
 - Customer Reliability Engineer | 
