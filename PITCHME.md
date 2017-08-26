@@ -1,9 +1,9 @@
-### Azure for Database
+## Azure for Database
 中国地方DB勉強会 in 山口
 
 ---
 
-# はじめに
+はじめに
 
 ---
 
@@ -23,7 +23,7 @@ Azureを知ってもらうのがゴール
 
 ---
 
-# あじぇんだ
+## あじぇんだ
 - 自己紹介
 - Azureのデータベースの種類
 - Azureの特徴
@@ -32,9 +32,7 @@ Azureを知ってもらうのがゴール
 
 ---
 
----
-
-# あじぇんだ
+## あじぇんだ
 - **自己紹介**
 - Azureのデータベースの種類
 - Azureの特徴
@@ -43,8 +41,8 @@ Azureを知ってもらうのがゴール
 
 ---
 
-# 自己紹介
-- 曽根 壮大(そね たけとも)![Logo](ipodchunli.gif)
+## 自己紹介
+- 曽根 壮大(そね たけとも)![Logo](./ipodchunli.gif)
 - 32歳
 - 株式会社 はてな Mackerelチーム | 
 - Customer Reliability Engineer | 
