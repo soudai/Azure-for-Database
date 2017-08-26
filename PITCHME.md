@@ -46,21 +46,21 @@ Azureを知ってもらうのがゴール
 - 32歳
 - 株式会社 はてな Mackerelチーム | 
 - Customer Reliability Engineer | 
-- 日本PostgreSQLユーザ会(JPUG) | 
+- 日本PostgreSQLユーザ会 ( JPUG ) | 
 
----?image=Mackerel.png
-
-
+---?image=Mackerel.png&size=auto 90%
 
 ---
 
+#### Customer Reliability Engineer (CRE)
 
+http://hatenacorp.jp/recruit/career/cre
 
 ---
 
 ## あじぇんだ
-- **自己紹介**
-- Azureのデータベースの種類
+- 自己紹介
+- **Azureのデータベースの種類**
 - Azureの特徴
 - デモ
 - いつAzureを選ぶか？
